@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/uk_uday1" target="blank"><img src="https://img.shields.io/twitter/follow/uk_uday1?logo=twitter&style=for-the-badge" alt="uk_uday1" /></a> </p>
 
-- 🔭 I’m currently working on [Social media application like Instagram](https://github.com/udkhatri/socialApp)
+- 🔭 I’m currently working on [Social media application like Instagram](https://github.com/udkhatri/socialShare)
 
 - 🌱 I’m currently learning **iOS development, Android development and cross platform mobile development**
 
