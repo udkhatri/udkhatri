@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://udkhatri.github.io/portfolio](https://udkhatri.github.io/portfolio)
 
-- 💬 Ask me about anything related to React Native or Mobile development
+- 💬 Ask me about anything related to Mobile development
 
 - 📫 How to reach me **Udayskhatri@gmail.com**
 
