@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Udayskhatri@gmail.com**
 
-- 📄 Know about my experiences [Link to my resume](https://bit.ly/3REF93D)
+- 📄 Know about my experiences [Link to my resume](http://bit.ly/3FMzgO8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
